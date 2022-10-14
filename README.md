@@ -73,7 +73,7 @@ This guide is not intended to teach you Solidity from the ground up, but to help
 `pragma solidity ^0.5.2;`  will compile with a compiler version  >= 0.5.2 and < 0.6.0.
 
 
-## Import files
+## Very Important files
 
 `import "filename";`
 
