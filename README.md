@@ -6,7 +6,7 @@ This document is a cheatsheet for **Solidity** that you can use to write **Smart
 
 This guide is not intended to teach you Solidity from the ground up, but to help developers with basic knowledge who may struggle to get familiar with Smart Contracts and Blockchain because of the Solidity concepts used.
 
-> **Note:** If you have basic knowledge in JavaScript, it's easier to learn Solidity.
+
 
 
 ## Table of contents
