@@ -658,3 +658,4 @@ contract C {
 - `selfdestruct(address recipient)`: destroy the current contract, sending its funds to the given Address
 - `suicide(address recipient)`: alias to selfdestruct. Soon to be deprecated.
 
+<a href="https://docs.soliditylang.org/">For more details you can check Solidity Documentations</a>
