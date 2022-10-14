@@ -1,4 +1,4 @@
-# Solidity Cheatsheet and Best practices
+# Solidity Cheatsheet and Best practices you must try
 
 ## Motivation to study Solidity
 
