@@ -1,6 +1,6 @@
 # Solidity Cheatsheet and Best practices
 
-## Motivation
+## Motivation to study Solidity
 
 This document is a cheatsheet for **Solidity** that you can use to write **Smart Contracts** for **Ethereum** based blockchain.
 
