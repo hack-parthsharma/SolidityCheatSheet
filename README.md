@@ -1,6 +1,6 @@
-# Solidity Cheatsheet and Best practices
+# Solidity Cheatsheet and Best practices you must try
 
-## Motivation
+## Motivation to study Solidity
 
 This document is a cheatsheet for **Solidity** that you can use to write **Smart Contracts** for **Ethereum** based blockchain.
 
@@ -73,7 +73,7 @@ This guide is not intended to teach you Solidity from the ground up, but to help
 `pragma solidity ^0.5.2;`  will compile with a compiler version  >= 0.5.2 and < 0.6.0.
 
 
-## Import files
+## Very Important files
 
 `import "filename";`
 
